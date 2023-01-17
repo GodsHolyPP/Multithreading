@@ -1,0 +1,15 @@
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\bin\Debug\net6.0\BeispielCSharp.exe
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\bin\Debug\net6.0\BeispielCSharp.deps.json
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\bin\Debug\net6.0\BeispielCSharp.runtimeconfig.json
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\bin\Debug\net6.0\BeispielCSharp.dll
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\bin\Debug\net6.0\BeispielCSharp.pdb
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.csproj.AssemblyReference.cache
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.AssemblyInfoInputs.cache
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.AssemblyInfo.cs
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.csproj.CoreCompileInputs.cache
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.dll
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\refint\BeispielCSharp.dll
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.pdb
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\BeispielCSharp.genruntimeconfig.cache
+C:\Users\socra\source\repos\BeispielCSharp\BeispielCSharp\obj\Debug\net6.0\ref\BeispielCSharp.dll
