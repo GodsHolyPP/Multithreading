@@ -1,0 +1,15 @@
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\bin\Debug\net6.0\AufgbaefuerCSharp.exe
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\bin\Debug\net6.0\AufgbaefuerCSharp.deps.json
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\bin\Debug\net6.0\AufgbaefuerCSharp.runtimeconfig.json
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\bin\Debug\net6.0\AufgbaefuerCSharp.dll
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\bin\Debug\net6.0\AufgbaefuerCSharp.pdb
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.csproj.AssemblyReference.cache
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.AssemblyInfoInputs.cache
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.AssemblyInfo.cs
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.csproj.CoreCompileInputs.cache
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.dll
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\refint\AufgbaefuerCSharp.dll
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.pdb
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\AufgbaefuerCSharp.genruntimeconfig.cache
+C:\Users\socra\source\repos\AufgbaefuerCSharp\AufgbaefuerCSharp\obj\Debug\net6.0\ref\AufgbaefuerCSharp.dll
